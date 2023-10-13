@@ -1,3 +1,9 @@
+
+#view of the app
+
+![image](https://github.com/mucheru/ecommerce-react/assets/13763343/ef14a87c-4c16-48c2-b663-9ecf4269f595)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
